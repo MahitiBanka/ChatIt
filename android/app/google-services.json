@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143234196564",
+    "firebase_url": "https://flash-chat-15491.firebaseio.com",
+    "project_id": "flash-chat-15491",
+    "storage_bucket": "flash-chat-15491.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143234196564:android:777d890ff2804922b4b9c1",
+        "android_client_info": {
+          "package_name": "co.mahitibanka.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143234196564-knan2jhkb2b0lj5i0a6aumia50j2760k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD518AI4aOiEtgdgygwFwf2GXoANyWGeLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143234196564-knan2jhkb2b0lj5i0a6aumia50j2760k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
